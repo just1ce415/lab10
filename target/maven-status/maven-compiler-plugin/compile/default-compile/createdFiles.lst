@@ -1,0 +1,8 @@
+mailsender/ClientId.class
+mailsender/enums/MailCode.class
+mailsender/MailBox.class
+mailsender/MailSender.class
+mailsender/enums/Gender.class
+mailsender/Client.class
+mailsender/MailInfo.class
+enum_constructor/Planet.class
